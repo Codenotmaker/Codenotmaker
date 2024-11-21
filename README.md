@@ -1,8 +1,3 @@
 - 👋 Hi, I’m Codernot
-- 👀 I’m interested in making new friends and making music.
-- 🌱 I’m currently learning how to make beats but i'm there yet...
-- 💞️ I’m looking to collaborate on Muic Videos on Yt 
-- 📫 How to reach me...just Replay to this i guess....
-- 😄 Pronouns: Him\he\she\her
-- ⚡ Fun fact: i'm very bad at codeing....
+
 
